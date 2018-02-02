@@ -1,1 +1,1 @@
-# AngularJS
+# AngularJS sample project
